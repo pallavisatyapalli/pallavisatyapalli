@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Pallavi 👋
 
-<!--
-**pallavisatyapalli/pallavisatyapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 A technologist with an eye for design and heart in creativity.  
+🎓 CSE Student | Prompt Engineer | AI Enthusiast  
+🌐 LinkedIn: [Pallavi Satya Palli](https://www.linkedin.com/in/pallavi-satya-palli-99401228b)  
 
-Here are some ideas to get you started:
+## 🔧 Technologies I Work With
+- 🌍 HTML, CSS, JavaScript
+- ⚙️ Django, MySQL, Bootstrap
+- 📊 Python (Data Analysis), Pandas, NumPy
+- 🎨 UI/UX, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PallaviSatya&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PallaviSatya&theme=radical" alt="GitHub Streak" />
+</p>-->
