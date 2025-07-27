@@ -2,7 +2,7 @@
 
 💻 A technologist with an eye for design and heart in creativity.  
 🎓 CSE Student | Prompt Engineer | AI Enthusiast  
-🌐 LinkedIn: [Pallavi Satya Palli](https://www.linkedin.com/in/pallavi-satya-palli-99401228b)  
+ 
 
 ## 🔧 Technologies I Work With
 - 🌍 HTML, CSS, JavaScript
