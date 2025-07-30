@@ -1,18 +1,12 @@
-# Hi there, I'm Pallavi 👋
+### 👋 Hi there!
 
-💻 A technologist with an eye for design and heart in creativity.  
-🎓 CSE Student | Prompt Engineer | AI Enthusiast  
- 
+I'm a **B.Tech Computer Science student** passionate about building smart, scalable, and innovative tech solutions.
+I love solving real-world problems by creating practical applications that make an impact.
 
-## 🔧 Technologies I Work With
-- 🌍 HTML, CSS, JavaScript
-- ⚙️ Django, MySQL, Bootstrap
-- 📊 Python (Data Analysis), Pandas, NumPy
-- 🎨 UI/UX, Figma
+##Tech stack 
+Java,DSA,AI,ML,DL,GenAI
 
-<!--## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PallaviSatya&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PallaviSatya&theme=radical" alt="GitHub Streak" />
-</p>-->
+### 🚀 What Drives Me
+
+I’m a curious and self-driven learner, always eager to explore new technologies, work on meaningful projects, and grow as a developer. I believe in writing clean, maintainable code and learning through collaboration and real-world experience.
+
