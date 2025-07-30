@@ -1,9 +1,9 @@
-### 👋 Hi there!
+### 👋 Hi there I am Pallavi!
 
 I'm a **B.Tech Computer Science student** passionate about building smart, scalable, and innovative tech solutions.
 I love solving real-world problems by creating practical applications that make an impact.
 
-##Tech stack 
+### TEch Satck I love
 Java,DSA,AI,ML,DL,GenAI
 
 ### 🚀 What Drives Me
