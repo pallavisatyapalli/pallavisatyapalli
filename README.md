@@ -1,4 +1,9 @@
-![banner](https://capsule-render.vercel.app/api?type=speech&height=150&color=E3A6AE&text=Pallavi%20Satya&section=header&reversal=false&animation=fadeIn&fontColor=363636)
+<img 
+  src="https://capsule-render.vercel.app/api?type=speech&height=150&color=E3A6AE&text=Pallavi%20Satya&section=header&reversal=false&animation=fadeIn&fontColor=363636" 
+  width="100%" 
+  height="auto"
+/>
+
 
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
