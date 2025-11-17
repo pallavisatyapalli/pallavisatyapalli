@@ -1,5 +1,5 @@
-[https://capsule-render.vercel.app/api?type=venom&height=150&color=E3A6AE&text=Pallavi%20Satya&section=header&reversal=false&animation=fadeIn&fontColor=363636](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:FFB6C1,100:E75480&text=Pallavi%20Satya&fontSize=50&fontAlignY=40&fontColor=363636
-)
+https://capsule-render.vercel.app/api?type=venom&text=Pallavi%20Satya
+
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
