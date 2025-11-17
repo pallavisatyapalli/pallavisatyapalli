@@ -1,5 +1,5 @@
 <img 
-  src="https://capsule-render.vercel.app/api?type=blur&height=150&color=2A2E45&text=Pallavi%20Satya&section=header&reversal=false&animation=fadeIn&fontColor=E3A6AE" 
+  src="https://capsule-render.vercel.app/api?type=venom&height=250&color=2A2E45&text=Pallavi%20Satya&section=header&reversal=false&animation=fadeIn&fontColor=E3A6AE" 
   width="100%" 
   height="auto"
 />
