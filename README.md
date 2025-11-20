@@ -9,6 +9,5 @@ Hey there 🤗
 
 Fun Facts
 
--I need perfection in everything, but still finish tasks on time.
-
--I love arts and crafts — creating beautiful things makes me happy.
+- I need perfection in everything, but still finish tasks on time.
+- I love arts and crafts — creating beautiful things makes me happy.
