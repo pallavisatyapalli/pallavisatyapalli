@@ -1,7 +1,7 @@
 <img 
   src="ODESZA - Divide (feat_ Kelsey Bulkin).jpg"
-  width="100" 
-  height="75%"
+  width="50%" 
+  height="auto"
 />
 
 
