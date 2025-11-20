@@ -1,5 +1,5 @@
 <img 
-  src="https://capsule-render.vercel.app/api?type=venom&height=250&color=2A2E45&text=Pallavi%20Satya&section=header&reversal=false&animation=fadeIn&fontColor=E3A6AE" 
+  src="ODESZA - Divide (feat_ Kelsey Bulkin).jpg"
   width="100%" 
   height="auto"
 />
