@@ -11,3 +11,4 @@ Fun Facts
 
 - I need perfection in everything, but still finish tasks on time.
 - I love arts and crafts — creating beautiful things makes me happy.
+- Grey and white are my favourite colours, but I’m a very joyful person.
