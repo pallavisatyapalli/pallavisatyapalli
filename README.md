@@ -7,7 +7,7 @@ Hey there 🤗
 - I’ve built projects like **```StudySphere```**, **```HMS```**, and several AI-based tools.
 - Inspired by the calm emotion of **`For Us`**, I build what feels meaningful.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pallavisatyapalli&theme=meta-light)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pallavisatyapalli&theme=latte)](https://git.io/streak-stats)
 
 Fun Facts
 
