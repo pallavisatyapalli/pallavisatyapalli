@@ -17,9 +17,7 @@ Hey there 🤗
   <img src="https://github-readme-stats.vercel.app/api?username=pallavisatyapalli&show_icons=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pallavisatyapalli" />
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=pallavisatyapalli&theme=flat&no-frame=true)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavisatyapalli" />
