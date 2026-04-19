@@ -17,11 +17,6 @@ Hey there 🤗
   <img src="https://github-readme-stats.vercel.app/api?username=pallavisatyapalli&show_icons=true" />
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=pallavisatyapalli&theme=flat&no-frame=true)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavisatyapalli" />
-</p>
 Fun Facts
 
 - I need perfection in everything, but still finish tasks on time.
