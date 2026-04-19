@@ -15,7 +15,7 @@ My Stats
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pallavisatyapalli&show_icons=true&bg_color=eff1f5&title_color=1e66f5&text_color=4c4f69&icon_color=dc8a78" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pallavisatyapalli&show_icons=true&theme=graywhite" />
 </p>
 
 Fun Facts
