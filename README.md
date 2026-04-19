@@ -13,6 +13,17 @@ Hey there 🤗
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pallavisatyapalli&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pallavisatyapalli" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavisatyapalli" />
+</p>
 Fun Facts
 
 - I need perfection in everything, but still finish tasks on time.
