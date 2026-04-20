@@ -5,7 +5,7 @@
 - My core CS foundations include **DSA**, **Operating Systems**, and **Computer Networks**, along with **frontend development**.
 - I’m currently exploring **Gen AI**, **ML fundamentals**, and **AI-powered full-stack applications**.
 - I’ve built projects like **StudySphere**, **HMS**, and several AI-based tools.
-- Inspired by the calm emotion of *“For Us”*, I enjoy building things that feel meaningful.
+- Inspired by the calm emotion of *“**For Us**”*, I enjoy building things that feel meaningful.
 
 ---
 
