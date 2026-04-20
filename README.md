@@ -8,7 +8,16 @@ Hey there 🤗
 - Inspired by the calm emotion of **`For Us`**, I build what feels meaningful.
 
 ---
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=pallavisatyapalli&theme=catppuccin-latte" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pallavisatyapalli&show_icons=true&bg_color=eff1f5&title_color=1e66f5&text_color=4c4f69&icon_color=dc8a78" />
+</p>
+---
 Fun Facts
 
 - I need perfection in everything, but still finish tasks on time.
