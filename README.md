@@ -7,7 +7,8 @@ Hey there 🤗
 - I’ve built projects like **```StudySphere```**, **```HMS```**, and several AI-based tools.
 - Inspired by the calm emotion of **`For Us`**, I build what feels meaningful.
 
---
+---
+
 Fun Facts
 
 - I need perfection in everything, but still finish tasks on time.
