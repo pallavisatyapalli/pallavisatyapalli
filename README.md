@@ -7,7 +7,6 @@ Hello everyone!!!
 - I’ve built projects like **```StudySphere```**, **```HMS```**, and several AI-based tools.
 - Inspired by the calm emotion of **`For Us`**, I build what feels meaningful.
 
----
 
 Fun Facts
 
