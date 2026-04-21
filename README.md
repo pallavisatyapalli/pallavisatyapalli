@@ -1,4 +1,4 @@
-Hey there 🤗  
+Hello everyone!!!
 
 - I’m **Pallavi**, a _CSE grad_ ,passionate about building real-world software and AI-driven solutions.
 - I specialize in **```Java```**, **```Python```**, **```SQL```**, and build efficient systems with **```MySQL```**, **```Flask```**,**```Git```**, and **```GitHub```**.
