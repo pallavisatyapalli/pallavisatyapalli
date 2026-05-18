@@ -1,10 +1,10 @@
 ## Hey there
 
 I’m **Pallavi**, a CSE grad
-who turns logic into something that feels a little like art 🌿
+who turns logic into something that feels a little like art 
 
 I build software that *works* in the real world
-and AI systems that try to think a little closer to how humans do 🤍
+and AI systems that try to think a little closer to how humans do 
 
 ---
 
@@ -13,7 +13,7 @@ and AI systems that try to think a little closer to how humans do 🤍
 `Java` · `Python` · `SQL`
 `MySQL` · `Flask` · `Git` · `GitHub`
 
-I like systems that are clean, fast, and quietly powerful ⚙️
+I like systems that are clean, fast, and quietly powerful 
 
 ---
 
@@ -58,7 +58,7 @@ it doesn’t shout, it stays.
 ---
 
 If code is language,
-I’m just trying to make mine feel a little more human 🌙
+I’m just trying to make mine feel a little more human 
 
 ---
 
