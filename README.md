@@ -37,15 +37,7 @@ and a little beyond that…
 ## 📊 My GitHub in numbers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pallavisatyapalli&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pallavisatyapalli&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavisatyapalli&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
