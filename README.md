@@ -61,3 +61,14 @@ If code is language,
 I’m just trying to make mine feel a little more human 🌙
 
 ---
+
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallavisatyapalli&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pallavisatyapalli&theme=tokyonight" />
+</p>
