@@ -1,14 +1,67 @@
+Hey there ✨
 
-Hey there 
+I’m **Pallavi**, a CSE grad
+who likes turning logic into something calm, clean, and a little poetic 🌙
 
-- I’m **Pallavi**, a _CSE grad_ ,passionate about building real-world software and AI-driven solutions.
-- I specialize in **```Java```**, **```Python```**, **```SQL```**, and build efficient systems with **```MySQL```**, **```Flask```**,**```Git```**, and **```GitHub```**.
-- My focus areas include **```DSA```**, **```Operating Systems```**, **```Computer Networks```**, and **```Frontend development```**.
-- I’m also familar with  **```Gen AI```**, **```ML fundamentals```**, and **```AI-powered full-stack applications```**.
-- Inspired by the calm emotion of **`For Us`**, I build what feels meaningful.
+I build software that works in the real world
+and AI systems that feel thoughtfully human 🤍
 
-Fun Facts
+---
 
-- I need perfection in everything, but still finish tasks on time.
-- I love arts and crafts — creating beautiful things makes me happy.
-- Grey and white are my favourite colours, but I’m a very joyful person.
+## 🧩 What I work with
+
+`Java` · `Python` · `SQL`
+`MySQL` · `Flask` · `Git` · `GitHub`
+
+I enjoy building systems that are structured, efficient, and quietly powerful ⚙️
+
+---
+
+## 🌿 What I explore
+
+`DSA` · `Operating Systems` · `Computer Networks`
+`Frontend Development`
+
+and a little beyond boundaries…
+
+`GenAI` · `ML Fundamentals` · `AI-powered full-stack apps`
+
+---
+
+## 📊 My GitHub in numbers
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pallavisatyapalli&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pallavisatyapalli&theme=tokyonight&hide_border=true" height="160"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavisatyapalli&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+</p>
+
+---
+
+## 🎐 My vibe
+
+I like building things that feel intentional —
+not loud, not rushed, just steady and meaningful 🌙
+
+I believe good code is like quiet architecture —
+it doesn’t shout, it *stays*.
+
+---
+
+## 🪶 small truths
+
+* I chase perfection… but I still deliver on time 🕰️
+* I love arts & crafts — turning simple things into something beautiful 🎨
+* I like calm tones, but my curiosity is always moving 🌫️🤍
+
+---
+
+If code is language,
+I prefer writing in something soft, minimal, and lasting ✨
