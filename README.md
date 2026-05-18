@@ -38,8 +38,10 @@ and a little beyond that…
 
 ## 📈 Contribution Activity
 
+## 📅 Contribution Calendar
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/pallavisatyapalli" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pallavisatyapalli&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 </p>
 
 ---
