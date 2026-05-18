@@ -1,10 +1,10 @@
-## Hey there 
+## Hey there
 
 I’m **Pallavi**, a CSE grad
-who turns logic into something that feels a little like art 
+who turns logic into something that feels a little like art 🌿
 
 I build software that *works* in the real world
-and AI systems that try to think a little closer to how humans do 
+and AI systems that try to think a little closer to how humans do 🤍
 
 ---
 
@@ -13,7 +13,7 @@ and AI systems that try to think a little closer to how humans do
 `Java` · `Python` · `SQL`
 `MySQL` · `Flask` · `Git` · `GitHub`
 
-I like systems that are clean, fast, and quietly powerful 
+I like systems that are clean, fast, and quietly powerful ⚙️
 
 ---
 
@@ -36,7 +36,15 @@ and a little beyond that…
 
 ---
 
-## My vibe 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallavisatyapalli&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## My vibe
 
 I like building things that feel intentional —
 not loud, not rushed, just steady and meaningful.
@@ -58,4 +66,6 @@ it doesn’t shout, it stays.
 ---
 
 If code is language,
-I’m just trying to make mine feel a little more human 
+I’m just trying to make mine feel a little more human 🌙
+
+---
