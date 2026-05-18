@@ -1,16 +1,10 @@
-This is already very close to a strong README — I just refined the flow, made the poetry smoother, reduced repetition, and polished the tone to feel more minimal + aesthetic ✨
-
-Here’s your upgraded version:
-
----
-
-## Hey there ✨
+## Hey there 
 
 I’m **Pallavi**, a CSE grad
-who turns logic into something that feels a little like art 🌙
+who turns logic into something that feels a little like art 
 
 I build software that *works* in the real world
-and AI systems that try to think a little closer to how humans do 🤍
+and AI systems that try to think a little closer to how humans do 
 
 ---
 
@@ -19,7 +13,7 @@ and AI systems that try to think a little closer to how humans do 🤍
 `Java` · `Python` · `SQL`
 `MySQL` · `Flask` · `Git` · `GitHub`
 
-I like systems that are clean, fast, and quietly powerful ⚙️
+I like systems that are clean, fast, and quietly powerful 
 
 ---
 
@@ -42,7 +36,7 @@ and a little beyond that…
 
 ---
 
-## My vibe 🌿
+## My vibe 
 
 I like building things that feel intentional —
 not loud, not rushed, just steady and meaningful.
@@ -64,4 +58,4 @@ it doesn’t shout, it stays.
 ---
 
 If code is language,
-I’m just trying to make mine feel a little more human ✨
+I’m just trying to make mine feel a little more human 
