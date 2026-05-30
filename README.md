@@ -28,14 +28,6 @@ and a little beyond that…
 
 ---
 
-## 📊 My GitHub in numbers
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pallavisatyapalli&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ## My vibe
 
 I like building things that feel intentional —
