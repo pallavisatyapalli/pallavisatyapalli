@@ -28,19 +28,6 @@ and a little beyond that…
 
 ---
 
-## My vibe
-
-I like building things that feel intentional —
-not loud, not rushed, just steady and meaningful.
-
-Inspired by quiet emotions and simple moments,
-I try to make things that feel meaningful, not just functional.
-
-I believe good code is like quiet architecture —
-it doesn’t shout, it stays.
-
----
-
 ## Small truths
 
 * I chase perfection… but I still get things done on time 🕰️
